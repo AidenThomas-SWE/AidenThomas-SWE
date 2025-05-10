@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Aiden Thomas
 
-<!--
-**AidenThomas-SWE/AidenThomas-SWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Software Engineer** currently focused on learning full-stack web development. I'm building real-world projects to sharpen my skills and prepare for my first role in tech.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Personal portfolio website
+- Task tracker and bug tracking apps
+- Full-stack apps using React, Node.js, and MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Learning
+- **Frontend Development**: HTML, CSS, JavaScript, React
+- **Backend Development**: Node.js, Express, MongoDB
+- **Tools**: Git, GitHub, VS Code, Netlify
+
+## Projects
+- [Portfolio Website]()
+- [Task Tracker]()
+- [More coming soon]
+
+## Contact
+- Email: aidenthomasxv@gmail.com  
+- LinkedIn: [linkedin.com/in/aidenthomasxv](https://linkedin.com/in/aidenthomasxv)
